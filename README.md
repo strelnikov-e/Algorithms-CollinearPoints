@@ -12,3 +12,7 @@ Project has two approaches to problem solution:
  
  To use visualization an algs4.jar package required. It could be downloaded from Princeton University website:
  https://algs4.cs.princeton.edu/code/algs4.jar
+ 
+ Example of visualization:
+ 
+<img width="340" alt="Collinear Points" src="https://user-images.githubusercontent.com/117730334/215855616-91c2d984-6efc-4463-b385-498c5dba516e.png">
